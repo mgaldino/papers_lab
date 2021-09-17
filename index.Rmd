@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: "papers_lab"
 description: |
   Welcome to my academic website. I use it to share the analysis for the papers I am working on.
 site: distill::distill_website
