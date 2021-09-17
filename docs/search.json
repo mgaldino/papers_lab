@@ -1,0 +1,29 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "In this website you can find my analysis for all my papers I am working on right now. In the future, I will put some links to published papers.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-16T21:11:04-03:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Papers",
+      "description": "Welcome to my academic website. I use it to share the analysis for the papers I am working on.\n",
+      "author": [],
+      "contents": "\nTeste aqui\n\n\n\n",
+      "last_modified": "2021-09-16T21:11:05-03:00"
+    },
+    {
+      "path": "projects.html",
+      "title": "Papers",
+      "description": "This is where I list all my working papers",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-09-16T21:11:05-03:00"
+    }
+  ],
+  "collections": []
+}

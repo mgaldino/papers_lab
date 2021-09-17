@@ -1,0 +1,10 @@
+---
+title: "About this site"
+description: |
+  In this website you can find my analysis for all my papers I am working on right now. In the future, I will put some links to published papers.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+

@@ -1,0 +1,15 @@
+name: "papers_lab"
+title: "Papers"
+theme: theme.css
+description: |
+  Papers
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+output: distill::distill_article

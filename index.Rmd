@@ -1,0 +1,19 @@
+---
+title: "Papers"
+description: |
+  Welcome to my academic website. I use it to share the analysis for the papers I am working on.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+# Teste aqui
