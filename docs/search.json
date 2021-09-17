@@ -6,15 +6,15 @@
       "description": "In this website you can find my analysis for all my papers I am working on right now. In the future, I will put some links to published papers.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-16T21:43:50-03:00"
+      "last_modified": "2021-09-16T22:00:37-03:00"
     },
     {
       "path": "index.html",
       "title": "Neuropolitics",
       "description": "Welcome to my academic website. I use it to share the analysis for the papers I am working on.\n",
       "author": [],
-      "contents": "\nOutro conteudo\n\n\n\n",
-      "last_modified": "2021-09-16T21:43:51-03:00"
+      "contents": "\nOutro conteudo\nteste\n\n\n\n",
+      "last_modified": "2021-09-16T22:00:38-03:00"
     },
     {
       "path": "projects.html",
@@ -22,7 +22,14 @@
       "description": "This is where I list all my working papers",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-09-16T21:43:51-03:00"
+      "last_modified": "2021-09-16T22:00:38-03:00"
+    },
+    {
+      "path": "teste_notebook.html",
+      "title": "R Notebook",
+      "author": [],
+      "contents": "\n\n\n\n\n\n\n\n\npapers_lab\n\n\nHome\nAbout\nProjects\nNotebooks\n☰\n\n\n  \n    \n      \n        \n        \n        \n      \n      \n    \n    \n      \n  Home\n\n\n  About\n\n\n  Projects\n\n\n  Notebooks\n\n      \n  \n\n\n\n\n\n\nR Notebook\n\n\n\n\nThis is an R Markdown Notebook. When you execute code within the notebook, the results appear beneath the code.\nTry executing this chunk by clicking the Run button within the chunk or by placing your cursor inside it and pressing Ctrl+Shift+Enter.\nplot(cars)\n\nAdd a new chunk by clicking the Insert Chunk button on the toolbar or by pressing Ctrl+Alt+I.\nWhen you save the notebook, an HTML file containing the code and output will be saved alongside it (click the Preview button or press Ctrl+Shift+K to preview the HTML file).\nThe preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike Knit, Preview does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.\n\n\n\n\n\n\n\n\n\n\n\n\n// add bootstrap table styles to pandoc tables\nfunction bootstrapStylePandocTables() {\n  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');\n}\n$(document).ready(function () {\n  bootstrapStylePandocTables();\n});\n\n\n\n$(document).ready(function () {\n  window.buildTabsets(\"TOC\");\n});\n\n$(document).ready(function () {\n  $('.tabset-dropdown > .nav-tabs > li').click(function () {\n    $(this).parent().toggleClass('nav-tabs-open');\n  });\n});\n\n  (function () {\n    var script = document.createElement(\"script\");\n    script.type = \"text/javascript\";\n    script.src  = \"https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\";\n    document.getElementsByTagName(\"head\")[0].appendChild(script);\n  })();\n",
+      "last_modified": "2021-09-16T22:00:38-03:00"
     }
   ],
   "collections": []
